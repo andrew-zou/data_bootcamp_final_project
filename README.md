@@ -1,5 +1,6 @@
 # data_bootcamp_final_project
-Final project for Data Bootcamp
+
+**Final Project** 
 
 This project was completed by Andrew Zou in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
@@ -11,5 +12,5 @@ Submitting the same or substantialy similar work in ultiple courses, either in t
 I ackonwledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
 
-Project Description:
+**Project Description:**
 This project will explore global property price trends over the past several decades. 
